@@ -10,4 +10,6 @@
 
 ## 確認
 
+iconは桃ちゃんにした🍑
+
 <img width="401" alt="home" src="https://user-images.githubusercontent.com/38455912/83337454-60ecaf00-a2f6-11ea-9b54-f97084e4c6ff.png">
