@@ -6,7 +6,7 @@ const resoucesToPreccache = [
   "images/exa-1.jpg",
   "images/exa-2.jpg",
   "images/exa-3.jpg",
-  "images/next.jpg"
+  "/icons/"
 ];
 
 self.addEventListener("install", event => {
