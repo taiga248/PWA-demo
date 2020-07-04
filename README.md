@@ -2,6 +2,11 @@
 
 [here](https://taiga248.github.io/PWA-demo/)
 
+## 概要
+- manifest.jsonを用意
+- headにmanifestのlinkを置く
+- ServiceWorkerを有効化
+- ServiceWorker(sw).jsを用意 キャッシュの対象を記述 
 
 ## ホームに追加が可能となる(Android)
 
